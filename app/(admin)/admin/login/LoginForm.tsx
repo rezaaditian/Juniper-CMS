@@ -143,7 +143,7 @@ export default function LoginForm() {
                   d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
                 />
               </svg>
-              Signing in...
+              Signing in..
             </span>
           ) : (
             "Log in"
@@ -171,7 +171,7 @@ export default function LoginForm() {
                 d="M15 7a2 2 0 012 2m4 0a6 6 0 01-6 6c-3 0-5.5-1.5-5.5-4a3.5 3.5 0 117 0c0 2.5-2.5 4-5.5 4a6 6 0 01-6-6 2 2 0 012-2m0 0V3"
               />
             </svg>
-            Forgot password
+            Forgot my password
           </button>
         </div>
       </form>
